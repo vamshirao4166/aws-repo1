@@ -1,3 +1,7 @@
 this is Vamshi Rao
+<<<<<<< HEAD
 this is second line
 
+=======
+this is ignore line
+>>>>>>> d2f4ddbfc80b0c499170c563352cac092e06f1a9
